@@ -1,0 +1,1 @@
+data.raw.recipe.battery.hidden = true
