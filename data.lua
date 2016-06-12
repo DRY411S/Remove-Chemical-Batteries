@@ -1,1 +1,2 @@
-data.raw.recipe.battery.hidden = true
+require("prototypes.recipes")
+require("prototypes.technology")
