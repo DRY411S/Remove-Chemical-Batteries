@@ -1,3 +1,3 @@
--- Hide the recipe for Chemical Plant batteries
--- Removing it completely seems to cause issues
+-- Hide the vanilla recipe for Chemical Plant batteries
 data.raw.recipe.battery.hidden = true
+data.raw.recipe.battery.enabled = false
