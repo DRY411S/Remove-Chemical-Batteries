@@ -1,2 +1,1 @@
-require("prototypes.recipes")
-require("prototypes.technology")
+RemoveChemicalBatteries = true
